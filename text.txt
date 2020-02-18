@@ -1,0 +1,6 @@
+Shopping list:
+   1) Bread
+   2) Sugar
+   3) Salt
+   4) Cookies
+   5) Fresh
